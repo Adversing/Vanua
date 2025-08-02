@@ -1830,7 +1830,6 @@ impl VirtualMachine {
                             self.globals
                                 .insert(module_name.clone(), module_value.clone());
 
-
                             break;
                         }
                     }
@@ -2392,7 +2391,6 @@ impl VirtualMachine {
                                 } else {
                                     "Unknown".to_string()
                                 };
-
 
                                 // TODO Add runtime visibility check for classes and methods. I must track visibility at runtime
                                 if let Some(Value::Bool(is_private)) =
