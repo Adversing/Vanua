@@ -1,0 +1,9 @@
+package test;
+
+// Comprehensive test file for all Vanua language features
+
+// Hello World
+fun main(): Unit {
+    println("Hello, World!");
+    return;
+}
