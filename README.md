@@ -6,7 +6,7 @@
 
 Vanua is a modern, strongly-typed, object-oriented programming language with Lambda Calculus foundations that runs on its own custom virtual machine. Designed for developer productivity and type safety, Vanua combines the best features of modern languages with innovative string handling, inheritance systems, and advanced functional programming capabilities.
 
-> **⚠️ Work in Progress**: Vanua is currently in early development. Many features showcased in this README are planned or partially implemented and may not work as intended. Contributions and feedback are welcome as I continue to develop the language.
+> **⚠️ Work in Progress**: Vanua is currently in early development. Many features showcased in this README are planned or partially implemented and may not work as intended. Contributions and feedback are welcome as I continue to develop the language. For this reason, there won’t be any official releases until the language becomes more stable. If you’d like to try Vanua, you can build it from source following the instructions below — just keep in mind that there may still be bugs and performance issues.
 
 ## 🚀 Key Features
 
