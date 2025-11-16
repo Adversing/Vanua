@@ -2,7 +2,7 @@
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 [![Rust](https://img.shields.io/badge/rust-1.70%2B-orange.svg)](https://www.rust-lang.org)
-[![Version](https://img.shields.io/badge/version-0.1.0-green.svg)](https://github.com/adversing/vanua)
+[![Version](https://img.shields.io/badge/version-0.0.1-green.svg)](https://github.com/adversing/vanua)
 
 Vanua is a modern, strongly-typed, object-oriented programming language with Lambda Calculus foundations that runs on its own custom virtual machine. Designed for developer productivity and type safety, Vanua combines the best features of modern languages with innovative string handling, inheritance systems, and advanced functional programming capabilities.
 
